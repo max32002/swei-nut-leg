@@ -17,6 +17,12 @@
 * 在「草」部的筆畫，獅尾是分開的二個部份。
 * 字體裡的「草字頭部首」中間該不該連起來，「肉字旁部首」該不該變成「月」，要不要把手寫習慣代入印刷字體？整體看來，會不會影響視覺的延伸性？會不會影響印刷的可行性與閱讀的便利性？這個答案我也不清楚，如果你是台灣教育部標準字符的愛好者，獅尾字體應該是一個不錯的選擇。
 
+### 「CJK TC」和「CJK SC」的比較：
+![TC和SC比較](https://github.com/max32002/swei-nut-leg/raw/master/preview/compare_tc_sc.png)
+* 在「肉」、「糸」、「女」、「辶」、「食」的筆畫不同，CJK SC 「肉字旁部首」變成「月」。 
+* 在「草」部的筆畫，CJK SC 中間連起來。
+* 雨、身、戶、舟、北、㕣、酋字寫法不同。
+
 ## 更新日誌
 [點擊此處](https://github.com/max32002/swei-nut-leg/blob/master/change_log.md) 查看更新記錄。
 
@@ -66,24 +72,28 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾螺帽腿黑體 Swei Nut Leg
+https://max-everyday.com/2020/08/swei-nut-leg/
+* 獅尾螺帽黑體 Swei Nut Sans
+https://max-everyday.com/2020/08/swei-nut-sans/
 * 獅尾B2腿黑體 Swei B2 Leg
 https://max-everyday.com/2020/07/swei-b2-leg/
 * 獅尾B2黑體 Swei B2 Sans
 https://max-everyday.com/2020/07/swei-b2-sans/
-* 獅尾腿圓 Swei Nut Leg
-https://max-everyday.com/2020/08/swei-nut-leg/
+* 獅尾腿圓 Swei Gothic Leg
+https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei Rainbow Leg
 https://max-everyday.com/2020/08/swei-rainbow-leg/
 * 獅尾XD珍珠 Swei XD Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
 * 獅尾D露西 Swei D Lucy
 https://max-everyday.com/2020/07/swei-d-lucy/
-* 獅尾半月字體 Swei Nut
+* 獅尾半月字體 Swei Gothic
 https://max-everyday.com/2020/04/swei-half-moon/
 * 台灣圓體 TaiwanPearl
 https://max-everyday.com/2020/06/taiwanpearl/
-* 獅尾圓體 Swei Nut
-https://max-everyday.com/2020/04/swei-nut/
+* 獅尾圓體 Swei Gothic
+https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
 https://max-everyday.com/2020/03/swei-sans/
 
