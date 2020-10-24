@@ -52,8 +52,8 @@
 ```
 @font-face {
   font-family: SweiNutLegCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-leg@2.0/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-leg@2.0/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-leg@2.128/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-leg@2.128/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff) format("woff");
 }
 ```
 
